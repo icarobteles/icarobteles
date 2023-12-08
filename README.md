@@ -48,5 +48,3 @@
 [![Web App Sass Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=web-application-sass&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB) 
 
 <br>
-
-![Snake Animation](https://github.com/icarobteles/icarobteles/blob/output/github-contribution-grid-snake.svg)
