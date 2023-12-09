@@ -59,7 +59,6 @@
       />
     </td>
     <td>
-      <br />
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=icarobteles&theme=holi-theme&hide_border=true&show_icons=true&locale=pt_BR"
@@ -77,7 +76,7 @@
       <a href="https://github.com/icarobteles/simple-todo-list">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=simple-todo-list&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=simple-todo-list&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="Simple TodoList Repo GitHub Stats"
             />
       </a>
@@ -86,7 +85,7 @@
       <a href="https://github.com/icarobteles/star-wars-planet-explorer">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=star-wars-planet-explorer&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=star-wars-planet-explorer&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="StarWars Planet Explorer Repo GitHub Stats"
             />
       </a>
@@ -95,7 +94,7 @@
       <a href="https://github.com/icarobteles/lottohub">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=lottohub&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=lottohub&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="LottoHub Repo GitHub Stats"
             />
       </a>
@@ -107,7 +106,7 @@
       <a href="https://github.com/antigo-icaroteles/cms-blog">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=cms-blog&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=cms-blog&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="CMS Blog Repo GitHub Stats"
             />
       </a>
@@ -116,7 +115,7 @@
       <a href="https://github.com/antigo-icaroteles/goth-wiki">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=goth-wiki&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=goth-wiki&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="GOTH Wiki Repo GitHub Stats"
             />
       </a>
@@ -125,7 +124,7 @@
       <a href="https://github.com/antigo-icaroteles/web-application-sass">
             <img
               align="left"
-              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=web-application-sass&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=web-application-sass&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&hide_border=true"
               alt="Web App Sass Repo GitHub Stats"
             />
       </a>
