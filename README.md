@@ -16,10 +16,18 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" height="30" width="40" alt="ts-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />  
+    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />  
     <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />  
     <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />  
+    <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
+    <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />  
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />  
+    <img align="center" height="30" width="40" alt="nestjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />  
+    <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />  
+    <img align="center" height="30" width="40" alt="ubuntu-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />  
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
   </div>
 </section>
 
@@ -34,17 +42,95 @@
 
 ## Meu Resumo
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=icarobteles&show_icons=true&theme=holi)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=icarobteles&layout=compact&langs_count=8&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=icarobteles&show_icons=true&theme=holi&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarobteles&theme=holi&hide_border=true&include_all_commits=true&count_private=true&layout=compact&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF&bg_color=030314&border_color=5FABEE&locale=pt-br"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=icarobteles&theme=holi-theme&hide_border=true&show_icons=true&locale=pt_BR"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Principais Projetos
 
-[![Simple TodoList Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=simple-todo-list&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB)
-[![StarWars Planet Explorer Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=star-wars-planet-explorer&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB)
-[![LottoHub Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=lottohub&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/icarobteles/simple-todo-list">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=simple-todo-list&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="Simple TodoList Repo GitHub Stats"
+            />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/icarobteles/star-wars-planet-explorer">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=star-wars-planet-explorer&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="StarWars Planet Explorer Repo GitHub Stats"
+            />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/icarobteles/lottohub">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=icarobteles&repo=lottohub&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="LottoHub Repo GitHub Stats"
+            />
+      </a>
+    </td>
+  </tr>
 
-[![CMS Blog Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=cms-blog&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB)
-[![GOTH Wiki Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=goth-wiki&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB)
-[![Web App Sass Repo GitHub](https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=web-application-sass&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF)](https://github.com/icarobteles/Analise-dados-IFPB) 
+  <tr>
+    <td>
+      <a href="https://github.com/antigo-icaroteles/cms-blog">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=cms-blog&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="CMS Blog Repo GitHub Stats"
+            />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/antigo-icaroteles/goth-wiki">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=goth-wiki&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="GOTH Wiki Repo GitHub Stats"
+            />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/antigo-icaroteles/web-application-sass">
+            <img
+              align="left"
+              src="https://github-readme-stats.vercel.app/api/pin/?username=antigo-icaroteles&repo=web-application-sass&bg_color=030314&border_color=5FABEE&show_icons=true&icon_color=5FABEE&title_color=5FABEE&text_color=D6E7FF"
+              alt="Web App Sass Repo GitHub Stats"
+            />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
