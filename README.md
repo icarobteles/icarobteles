@@ -7,7 +7,6 @@
       - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (Uninter EAD)  
       - 🎨 Desenvolvedor Web Front-End (1000h/Kenzie Academy Brasil)
       - ⌨️ Áreas Preferidas: Tecnologia e Educação
-      - 🧑‍🎓 Atualmente, estagiando com: PHP, PHPUnit, Behat, Angular, Cypress e TypeScript.
 </pre>  
 
 <section>
