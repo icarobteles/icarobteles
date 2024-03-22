@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=5FABEE&center=false&random=false&width=1000&lines=Ol%C3%A1%2C+Mundo!;Meu+nome+%C3%A9+%C3%8Dcaro+Teles;Sou+um+estudante+de+Desenvolvimento+Web;O+mundo+da+tecnologia+me+fascina!;Deseja+me+conhecer+mais%3F)](https://git.io/typing-svg)
 
 <pre>
-      - 🔭 Aberto à oportunidades de estágio/júnior  
-      - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (Uninter EAD)  
+      - 🔭 A iniciar minha jornada no <a href="https://github.com/asaasdev/" title="Asaas">Asaas</a> como Estagiário em Engenharia de Software.
+      - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (Uninter EAD - 2/5)  
       - 🎨 Desenvolvedor Web Front-End (1000h/Kenzie Academy Brasil)
       - ⌨️ Áreas Preferidas: Tecnologia e Educação
 </pre>  
@@ -15,17 +15,15 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" height="30" width="40" alt="ts-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />  
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />  
     <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />  
-    <img align="center" height="30" width="40" alt="angular-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />  
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
     <img align="center" height="30" width="40" alt="github-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />  
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />  
-    <img align="center" height="30" width="40" alt="nestjs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />  
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />  
+    <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />  
     <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />  
-    <img align="center" height="30" width="40" alt="ubuntu-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" />  
     <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
   </div>
 </section>
