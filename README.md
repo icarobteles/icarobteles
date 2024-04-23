@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=5FABEE&center=false&random=false&width=1000&lines=Ol%C3%A1%2C+Mundo!;Meu+nome+%C3%A9+%C3%8Dcaro+Teles;Sou+um+estudante+de+Desenvolvimento+Web;O+mundo+da+tecnologia+me+fascina!;Deseja+me+conhecer+mais%3F)](https://git.io/typing-svg)
 
 <pre>
-      - 🔭 A iniciar minha jornada no <a href="https://github.com/asaasdev/" title="Asaas">Asaas</a> como Estagiário em Engenharia de Software.
+      - 🔭 Tripulante do <a href="https://github.com/asaasdev/" title="Asaas">Asaas</a> como Estagiário em Engenharia de Software.
       - 👨‍💻 Graduando em Análise e Desenvolvimento de Sistemas (Uninter EAD - 2/5)  
       - 🎨 Desenvolvedor Web Front-End (1000h/Kenzie Academy Brasil)
       - ⌨️ Áreas Preferidas: Tecnologia e Educação
