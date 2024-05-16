@@ -23,6 +23,8 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />  
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />  
     <img align="center" height="30" width="40" alt="spring-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />  
+    <img align="center" height="30" width="40" alt="grails-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg" />  
+    <img align="center" height="30" width="40" alt="groovy-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" />  
     <img align="center" height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />  
     <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />  
   </div>
